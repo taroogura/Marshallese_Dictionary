@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marshallese Dictionary</string>
+    <string name="search_hint">Enter Marshallese or English word</string>
+</resources>
